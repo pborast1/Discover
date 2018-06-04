@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DoorDash</string>
+    <string name="discover_activity">Discover</string>
+    <string name="generic_error_title">Oops!!</string>
+    <string name="generic_error_message">Something went wrong</string>
+    <string name="ok_confirmation">OK</string>
+</resources>
